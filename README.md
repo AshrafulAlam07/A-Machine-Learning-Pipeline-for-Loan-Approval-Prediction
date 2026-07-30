@@ -1,4 +1,4 @@
-# Loan Approval Prediction – ML Pipeline
+# A-Machine-Learning-Pipeline-for-Loan-Approval-Prediction
 
 ## Overview
 
